@@ -3,7 +3,7 @@ import './Home.css';
 
 const Home = () => {
   return (
-    <div>Hola mis amigotes</div>
+    <div>Con el vercel json a ver si funciona así</div>
   )
 }
 
